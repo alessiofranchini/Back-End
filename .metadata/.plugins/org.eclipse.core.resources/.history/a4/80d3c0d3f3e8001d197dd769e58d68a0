@@ -1,0 +1,25 @@
+package it.epicode.be;
+
+public class Helloworld {
+
+public static void main (String[] args)
+		{
+		System.out.println("This is my first Epicode Java Project!");
+		
+		int x=10;
+		int y=5;
+		System.out.println("es 2.1");
+		}
+
+        
+         public static int moltiplica(int x, int y)
+         {
+        	 return x*y;
+         }
+         
+        
+
+}
+
+
+
