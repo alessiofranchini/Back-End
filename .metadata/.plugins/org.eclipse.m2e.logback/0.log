@@ -2130,3 +2130,17 @@ Caused by: java.lang.Exception: File not found: /Users/alessiofranchini/eclipse-
 	at org.eclipse.core.internal.resources.ResourceException.provideStackTrace(ResourceException.java:42)
 	at org.eclipse.core.internal.resources.ResourceException.<init>(ResourceException.java:38)
 	... 27 common frames omitted
+2023-05-21 17:54:58,640 [Worker-9: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2023-05-21 17:55:02,151 [Worker-10: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for gestioneEventi:gestioneEventi:jar:0.0.1-SNAPSHOT is missing, no dependency information available
+2023-05-21 17:55:03,883 [Worker-10: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: catalogobibliotecatio:catalogobibliotecatio:0.0.1-SNAPSHOT @ /Users/alessiofranchini/eclipse-workspace/W3-progetto-settimanale/pom.xml.
+2023-05-21 17:55:04,376 [Worker-10: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for gestioneEventi:gestioneEventi:jar:0.0.1-SNAPSHOT is missing, no dependency information available
+2023-05-21 17:55:05,324 [Worker-10: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-05-21 17:55:05,332 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alessiofranchini/eclipse-workspace/W3-progetto-settimanale/src/main/resources
+2023-05-21 17:55:05,341 [Worker-10: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-05-21 17:55:05,342 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alessiofranchini/eclipse-workspace/W3-progetto-settimanale/src/test/resources
+2023-05-21 17:56:08,522 [Worker-18: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: catalogobibliotecatio:catalogobibliotecatio:0.0.1-SNAPSHOT @ /Users/alessiofranchini/eclipse-workspace/W3-progetto-settimanale/pom.xml.
+2023-05-21 17:56:08,628 [Worker-18: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for gestioneEventi:gestioneEventi:jar:0.0.1-SNAPSHOT is missing, no dependency information available
+2023-05-21 17:56:08,840 [Worker-18: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-05-21 17:56:08,841 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alessiofranchini/eclipse-workspace/W3-progetto-settimanale/src/main/resources
+2023-05-21 17:56:08,847 [Worker-18: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-05-21 17:56:08,847 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alessiofranchini/eclipse-workspace/W3-progetto-settimanale/src/test/resources
