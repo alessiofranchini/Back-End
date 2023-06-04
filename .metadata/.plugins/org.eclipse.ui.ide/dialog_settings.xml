@@ -7,6 +7,8 @@
 		<item key="WizardProjectsImportPage.STORE_CLOSE_CREATED_PROJECTS_ID" value="false"/>
 		<item key="WizardProjectsImportPage.STORE_HIDE_CONFLICTING_PROJECTS_ID" value="false"/>
 		<list key="WizardProjectsImportPage.STORE_DIRECTORIES">
+			<item value="/Users/alessiofranchini/eclipse-workspace/BW-java1-main"/>
+			<item value="/Users/alessiofranchini/eclipse-workspace/BuildweekJava"/>
 			<item value="/Users/alessiofranchini/eclipse-workspace/W3-progetto-settimanale"/>
 			<item value="/Users/alessiofranchini/eclipse-workspace/catalogobibliotecario-main"/>
 			<item value="/Users/alessiofranchini/eclipse-workspace/backEnd_w3_project-main"/>
