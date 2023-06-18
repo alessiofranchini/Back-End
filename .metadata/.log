@@ -2839,3 +2839,114 @@ Java Model Exception: Error in Java Model (code 969): INCENDI_BACKEND does not e
 
 !ENTRY org.springframework.tooling.boot.ls 1 0 2023-06-16 14:54:12.152
 !MESSAGE Boot project ADDED: W7-progetto-settimanale
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-06-16 17:12:25.815
+!MESSAGE Classpath changed for project: W7-progetto-settimanale
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-06-16 17:12:25.818
+!MESSAGE Boot project REMOVED: W7-progetto-settimanale
+!SESSION 2023-06-18 22:09:06.887 -----------------------------------------------
+eclipse.buildId=4.27.0.20230309-1200
+java.version=17.0.7
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=it_IT
+Framework arguments:  -product org.eclipse.epp.package.jee.product -keyring /Users/alessiofranchini/.eclipse_keyring
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -product org.eclipse.epp.package.jee.product -keyring /Users/alessiofranchini/.eclipse_keyring
+
+!ENTRY ch.qos.logback.classic 1 0 2023-06-18 22:09:08.900
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2023-06-18 22:09:17.943
+!MESSAGE Logback config file: /Users/alessiofranchini/eclipse-workspace/.metadata/.plugins/org.eclipse.m2e.logback/logback.2.1.100.20230106-1511.xml
+
+!ENTRY org.eclipse.jface 2 0 2023-06-18 22:09:21.677
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2023-06-18 22:09:21.677
+!MESSAGE A conflict occurred for COMMAND+SHIFT+T:
+Binding(COMMAND+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		WorkbenchHandlerServiceHandler("org.eclipse.jdt.ui.navigate.open.type"),
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(COMMAND+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		WorkbenchHandlerServiceHandler("org.eclipse.lsp4e.symbolinworkspace"),
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-06-18 22:09:26.696
+!MESSAGE Boot project ADDED: W5-progetto-settimanale
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-06-18 22:09:26.699
+!MESSAGE Starting Boot LS...
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-06-18 22:09:26.809
+!MESSAGE Started Boot LS process
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-06-18 22:09:26.813
+!MESSAGE Boot project ADDED: W6-progetto-settimanale
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-06-18 22:09:26.835
+!MESSAGE Boot project ADDED: spring
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-06-18 22:09:26.857
+!MESSAGE DelegatingStreamConnectionProvider - Starting Boot LS
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-06-18 22:09:26.885
+!MESSAGE Started org.springframework.tooling.boot.ls LS process 1443
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-06-18 22:09:32.769
+!MESSAGE executing callback sts4.classpath.arDHbvIp FAILED
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 4 0 2023-06-18 22:09:32.786
+!MESSAGE TimeoutException
+!STACK 0
+java.util.concurrent.TimeoutException
+	at java.base/java.util.concurrent.CompletableFuture.timedGet(CompletableFuture.java:1960)
+	at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2095)
+	at org.springframework.tooling.ls.eclipse.commons.LSP4ECommandExecutor.executeClientCommand(LSP4ECommandExecutor.java:37)
+	at org.springframework.tooling.jdt.ls.commons.classpath.SendClasspathNotificationsJob.flush(SendClasspathNotificationsJob.java:178)
+	at org.springframework.tooling.jdt.ls.commons.classpath.SendClasspathNotificationsJob.run(SendClasspathNotificationsJob.java:149)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-06-18 22:10:52.069
+!MESSAGE Classpath changed for project: W7-progetto-settimanale
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-06-18 22:11:06.145
+!MESSAGE Classpath changed for project: W7-progetto-settimanale
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-06-18 22:11:07.467
+!MESSAGE Classpath changed for project: W7-progetto-settimanale
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-06-18 22:11:07.477
+!MESSAGE Boot project ADDED: W7-progetto-settimanale
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-06-18 22:11:08.314
+!MESSAGE Classpath changed for project: W7-progetto-settimanale
+
+!ENTRY org.eclipse.lsp4e 2 0 2023-06-18 22:14:59.830
+!MESSAGE Javadoc unavailable. Failed to obtain it.
+!STACK 0
+java.lang.InterruptedException
+	at java.base/java.util.concurrent.CompletableFuture.reportGet(CompletableFuture.java:386)
+	at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2096)
+	at org.eclipse.lsp4e.jdt.LSJavaHoverProvider.getHoverInfo2(LSJavaHoverProvider.java:65)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:163)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:130)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavaEditorTextHoverProxy.getHoverInfo2(JavaEditorTextHoverProxy.java:89)
+	at org.eclipse.jface.text.TextViewerHoverManager$1.run(TextViewerHoverManager.java:155)
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-06-18 22:16:16.393
+!MESSAGE Classpath changed for project: W7-progetto-settimanale
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-06-18 22:16:56.119
+!MESSAGE Classpath changed for project: W7-progetto-settimanale
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-06-18 22:16:56.796
+!MESSAGE Classpath changed for project: W7-progetto-settimanale

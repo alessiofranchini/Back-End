@@ -4633,3 +4633,55 @@ Caused by: java.lang.Exception: File not found: /Users/alessiofranchini/eclipse-
 2023-06-16 14:54:13,553 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
 2023-06-16 14:54:13,579 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
 2023-06-16 14:54:13,584 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/alessiofranchini/eclipse-workspace/W7-progetto-settimanale/src/test/resources
+2023-06-16 17:12:25,111 [Worker-68: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2023-06-16 17:12:25,140 [Worker-68: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-06-16 17:12:25,145 [Worker-68: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/alessiofranchini/eclipse-workspace/W6-progetto-settimanale/src/test/resources
+2023-06-18 22:09:25,185 [Worker-9: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2023-06-18 22:11:05,736 [Worker-14: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.GestioneIncendi2:GestioneIncendi2:0.0.1-SNAPSHOT @ /Users/alessiofranchini/eclipse-workspace/W7-progetto-settimanale/pom.xml.
+2023-06-18 22:11:07,693 [Worker-14: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /W7-progetto-settimanale/src/main/java
+2023-06-18 22:11:07,695 [Worker-14: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /W7-progetto-settimanale/src/main/resources
+2023-06-18 22:11:07,699 [Worker-14: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /W7-progetto-settimanale/src/main/resources
+2023-06-18 22:11:07,702 [Worker-14: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /W7-progetto-settimanale/src/test/java
+2023-06-18 22:11:08,001 [Worker-14: Importing Maven projects] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 3 sec
+2023-06-18 22:11:10,151 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-06-18 22:11:10,169 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-06-18 22:11:10,175 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/alessiofranchini/eclipse-workspace/W7-progetto-settimanale/src/test/resources
+2023-06-18 22:12:11,436 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-06-18 22:12:11,450 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-06-18 22:12:11,453 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/alessiofranchini/eclipse-workspace/W7-progetto-settimanale/src/test/resources
+2023-06-18 22:12:36,556 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-06-18 22:12:36,568 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-06-18 22:12:36,577 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/alessiofranchini/eclipse-workspace/W7-progetto-settimanale/src/test/resources
+2023-06-18 22:13:16,030 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-06-18 22:13:16,060 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-06-18 22:13:16,073 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/alessiofranchini/eclipse-workspace/W7-progetto-settimanale/src/test/resources
+2023-06-18 22:13:26,360 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-06-18 22:13:26,385 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-06-18 22:13:26,387 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/alessiofranchini/eclipse-workspace/W7-progetto-settimanale/src/test/resources
+2023-06-18 22:13:52,967 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-06-18 22:13:52,968 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-06-18 22:13:52,975 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/alessiofranchini/eclipse-workspace/W7-progetto-settimanale/src/test/resources
+2023-06-18 22:14:30,709 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-06-18 22:14:30,720 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-06-18 22:14:30,725 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/alessiofranchini/eclipse-workspace/W7-progetto-settimanale/src/test/resources
+2023-06-18 22:14:33,423 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-06-18 22:14:33,426 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-06-18 22:14:33,437 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/alessiofranchini/eclipse-workspace/W7-progetto-settimanale/src/test/resources
+2023-06-18 22:14:59,669 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-06-18 22:14:59,681 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-06-18 22:14:59,688 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/alessiofranchini/eclipse-workspace/W7-progetto-settimanale/src/test/resources
+2023-06-18 22:15:13,805 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-06-18 22:15:13,817 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-06-18 22:15:13,822 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/alessiofranchini/eclipse-workspace/W7-progetto-settimanale/src/test/resources
+2023-06-18 22:15:25,747 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-06-18 22:15:25,749 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-06-18 22:15:25,753 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/alessiofranchini/eclipse-workspace/W7-progetto-settimanale/src/test/resources
+2023-06-18 22:16:10,498 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-06-18 22:16:10,499 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-06-18 22:16:10,505 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/alessiofranchini/eclipse-workspace/W7-progetto-settimanale/src/test/resources
+2023-06-18 22:16:16,967 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-06-18 22:16:16,970 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-06-18 22:16:16,973 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/alessiofranchini/eclipse-workspace/W7-progetto-settimanale/src/test/resources
+2023-06-18 22:16:56,629 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-06-18 22:16:56,633 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-06-18 22:16:56,640 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/alessiofranchini/eclipse-workspace/W7-progetto-settimanale/src/test/resources
